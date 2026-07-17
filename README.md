@@ -58,4 +58,4 @@ streamlit run app.py
 
 **Ahad Jan**
 - GitHub: [@Ahadjan1](https://github.com/Ahadjan1)
-- LinkedIn: [ahad-jan](https://www.linkedin.com/in/ahad-jan)
+- LinkedIn: https://www.linkedin.com/in/ahad-jan-b8ba872b4/
