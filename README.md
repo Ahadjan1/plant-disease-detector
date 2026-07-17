@@ -55,8 +55,6 @@ streamlit run app.py
 - Google Colab (Training environment)
 
 ## 👤 Author
-- GitHub: [@Ahadjan1](https://github.com/Ahadjan1)
-- LinkedIn: [ahad-jan](https://www.linkedin.com/in/ahad-jan)
 
 **Ahad Jan**
 - GitHub: [@Ahadjan1](https://github.com/Ahadjan1)
