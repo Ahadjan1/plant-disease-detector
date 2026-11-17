@@ -54,8 +54,3 @@ streamlit run app.py
 - Streamlit (Frontend)
 - Google Colab (Training environment)
 
-## 👤 Author
-
-**Ahad Jan**
-- GitHub: [@Ahadjan1](https://github.com/Ahadjan1)
-- LinkedIn: https://www.linkedin.com/in/ahad-jan-b8ba872b4/
